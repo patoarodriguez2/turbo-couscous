@@ -2,4 +2,4 @@
 
 github para desarrolladores 
 
-[Visita mi Blog] (http://patoarodriguez2)
+[Visita mi Blog] (https://github.com/patoarodriguez2/turbo-couscous)
